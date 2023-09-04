@@ -1,5 +1,5 @@
 # Pokemon-battle-C-ASM
-A very simple Pokemon battle game written in C and Assembly language, designed to run on the ARM-based MD407 primitive computer developed at Chalmers. It was initially created during the DAT390 "Machine-oriented programming" course. The project involved coding hardware drivers for the displays and keypad components, developing the main game logic, creating pixel art, as well as project management within our small team of three students.
+A very simple Pokemon battle game written in C and Assembly language without external libraries, designed to run on the ARM-based MD407 primitive computer developed at Chalmers. It was initially created during the DAT390 "Machine-oriented programming" course. The project involved coding hardware drivers for the displays and keypad components, developing the main game logic, creating pixel art, as well as project management within our small team of three students.
 
 The image below is from an emulator running the game.
 
